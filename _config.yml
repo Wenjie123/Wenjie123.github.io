@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+# Site settings
+email: zwjtp2018@gmail.com
+url: https://wenjie123.github.io
+
+
+# Sidebar settings
+sidebar: true
